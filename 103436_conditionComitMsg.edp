@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="103436_conditionComitMsg"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{EFC73C1E-2505-41D3-9493-D0F9ACE28B89}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14100.00"/>
+  </_Project>
+
+</Application>
